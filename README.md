@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosjc03
 - 👀 I’m interested in I'm interested in making cheats for videogames, as well as in programming languages like Python, C++...
-- 🌱 I’m currently learning Informatics Engineering
+- 🌱 I’m currently learning Computer Science
 - 📫 How to reach me: @carlosjc03 on twitter
 
 <!---
